@@ -1,5 +1,7 @@
 # CMA wiki
 
+![Logo CMA](img/logo.png)
+
 ## Tabla de contenidos
 
 1. [Introducción](#introduction)
