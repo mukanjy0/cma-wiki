@@ -43,7 +43,7 @@ Los miembros del club están divididos en dos divisiones: senior y junior.
 
 - Acceso a todo el material.
 - Acceso a talleres teóricos a cargo de estudiantes [senior](#senior) para cubrir el [temario de la división junior](#junior-division).
-- Acceso a los canales de comunicación del club y los [_office hours_](#office-hours).
+- Acceso a los canales de comunicación del club y las [_office hours_](#office-hours).
 - Material adicional de preparación para los [concursos organizados](#contests).
 
 ### Senior
@@ -81,6 +81,7 @@ _Disclaimer:_ el 2024-1 está orientado a la cobertura del [temario de la divisi
 <a name="curriculum"></a>
 
 ### Junior Division:
+Para el detalle de los subtemas para cada uno de los tópicos, referirse a este [documento](https://github.com/mukanjy0/cma-wiki/blob/7f6938c5b2c7a3cb1dff3a0de9f10cf61168eca7/curriculum/junior-division.pdf). A continuación se detallan los principales tópicos:
 
 - Introducción al Cálculo y Análisis
 
