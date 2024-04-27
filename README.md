@@ -1,6 +1,6 @@
 # CMA wiki
 
-![Logo CMA](img/logo.png)
+<img src="img/logo.png" alt="CMA Logo" height="70"/>
 
 ## Tabla de contenidos
 
