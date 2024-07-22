@@ -48,7 +48,9 @@ Los miembros del club están divididos en dos divisiones: senior y junior.
 
 ### Senior
 
+- Todo lo disponible para la división Junior.
 - Acceso a talleres teóricos a cargo de los dos [asesores](#advisers).
+- Acceso a talleres a carag de profesores invitados.
 - Eligibilidad para competir en olimpiadas.
   - Olimpiada Iberoamericana de Matemáticas.
 
