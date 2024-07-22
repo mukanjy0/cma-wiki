@@ -93,6 +93,9 @@ Para el detalle de los subtemas para cada uno de los tópicos, referirse a este 
   - Sucesiones
   - Series
   - Polinomios
+  - Límites
+  - Derivadas
+  - Integrales
 
 - Introducción a las Matemáticas Discretas
 
